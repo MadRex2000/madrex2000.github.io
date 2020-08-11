@@ -24,12 +24,15 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Fishing Map', 'https://fishingmap.site'),)
+LINKS = (('Fishing Map', 'https://fishingmap.site'),
+         ('DSC NTOU', 'http://dscntou.tw'),
+        )
 
 # Social widget
 SOCIAL = (('Facebook', 'https://www.facebook.com/RexWu1123'),
           ('Github', 'https://github.com/MadRex2000'),
-          ('Linkedin', 'https://www.linkedin.com/in/%E5%BF%B5%E4%BF%AE-%E5%90%B3-b28a48160/'),)
+          ('Linkedin', 'https://www.linkedin.com/in/%E5%BF%B5%E4%BF%AE-%E5%90%B3-b28a48160/'),
+          )
 
 DEFAULT_PAGINATION = False
 
